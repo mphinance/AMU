@@ -6,7 +6,7 @@ Built with React, Tailwind CSS v4, Framer Motion, and Lucide-React.
 
 ![Dashboard](docs/dashboard.png)
 
-[Take the Test](https://mphinance.github.io/AMU/(
+[Take the Test](https://mphinance.github.io/AMU/)
 
 ## The Experience
 
